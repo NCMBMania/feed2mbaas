@@ -1,0 +1,7 @@
+{
+  "applicationKey": "YOUR_APPLICATION_KEY",
+  "clientKey": "YOUR_CLIENT_KEY",
+  "feedUrl": "FEED_URL",
+  "className": "ImportClassName",
+  "roleName": "Attach role name"
+}
